@@ -6,48 +6,49 @@
 [![Groq Powered](https://img.shields.io/badge/AI-Groq%20Llama%203.3-orange)](https://groq.com/)
 
 ##  La Propuesta de Valor
-[cite_start]En un mundo saturado de información, el problema no es capturar datos, sino la **fricción cognitiva** que supone organizarlos mientras estamos concentrados en otra tarea[cite: 22, 27]. [cite_start]**Kelea Digital Brain** es una solución diseñada para eliminar esa fricción, permitiendo una captura instantánea y un procesado asistido por Inteligencia Artificial que respeta siempre el criterio humano.
+- En un mundo saturado de información, el problema no es capturar datos, sino la **fricción cognitiva** que supone organizarlos mientras estamos concentrados en otra tarea.
+- **Kelea Digital Brain** es una solución diseñada para eliminar esa fricción, permitiendo una captura instantánea y un procesado asistido por Inteligencia Artificial que respeta siempre el criterio humano.
 
 ---
 
 ##  Características Principales (Core & Extras)
 
 ### 1. Inbox Unificado "Zero-Friction"
-[cite_start]Punto único de entrada para capturar cualquier tipo de información sin necesidad de clasificar en el momento:
-* [cite_start]**Notas rápidas de texto** e ideas sueltas.
-* [cite_start]**Archivos multimedia** (PDF, Imágenes, Vídeo).
-* [cite_start]**Grabadora de Voz integrada** con transcripción automática vía **Whisper-large-v3**.
+- Punto único de entrada para capturar cualquier tipo de información sin necesidad de clasificar en el momento:
+* **Notas rápidas de texto** e ideas sueltas.
+* **Archivos multimedia** (PDF, Imágenes, Vídeo).
+* **Grabadora de Voz integrada** con transcripción automática vía **Whisper-large-v3**.
 
 ### 2. Procesado Asistido (Human-in-the-Loop)
-[cite_start]El sistema utiliza un **Router Cognitivo** basado en LLMs de alto rendimiento (Groq) para analizar el contenido:
-* [cite_start]**Clasificación Inteligente:** Propone el destino entre 10 categorías clave como Proyectos, Referencias o Documentos.
-* [cite_start]**Resúmenes y Acciones:** Genera resúmenes ejecutivos y detecta tareas específicas automáticamente.
-* [cite_start]**Validación Humana:** El sistema propone, pero la persona siempre valida, corrige o descarta la información antes de archivarla.
+El sistema utiliza un **Router Cognitivo** basado en LLMs de alto rendimiento (Groq) para analizar el contenido:
+* **Clasificación Inteligente:** Propone el destino entre 10 categorías clave como Proyectos, Referencias o Documentos.
+* **Resúmenes y Acciones:** Genera resúmenes ejecutivos y detecta tareas específicas automáticamente.
+* **Validación Humana:** El sistema propone, pero la persona siempre valida, corrige o descarta la información antes de archivarla.
 
 ### 3. Mapa Conceptual y Conexiones
-[cite_start]Visualización de la información como un **cerebro interconectado** no lineal:
-* [cite_start]**Grafo dinámico:** Nodos de Temas, Notas y Etiquetas (#tags) que permiten descubrir patrones y relaciones conceptuales.
-* [cite_start]**Consulta Semántica:** Búsqueda inteligente por significado y contexto, superando la limitación de las palabras clave.
-* [cite_start]**Preguntas de Reflexión:** La IA genera preguntas automáticas para fomentar el pensamiento crítico y conectar ideas existentes.
+Visualización de la información como un **cerebro interconectado** no lineal:
+* **Grafo dinámico:** Nodos de Temas, Notas y Etiquetas (#tags) que permiten descubrir patrones y relaciones conceptuales.
+* **Consulta Semántica:** Búsqueda inteligente por significado y contexto, superando la limitación de las palabras clave.
+* **Preguntas de Reflexión:** La IA genera preguntas automáticas para fomentar el pensamiento crítico y conectar ideas existentes.
 
 ### 4. Gamificación y Motivación
-[cite_start]Para evitar que el Inbox se vuelva abrumador, hemos gamificado el hábito de procesar:
+Para evitar que el Inbox se vuelva abrumador, hemos gamificado el hábito de procesar:
 * **Sistema de XP y Niveles:** Puntos por cada nota transformada en conocimiento.
-* [cite_start]**Rachas Diarias (Streaks):** Fomento de la constancia para mantener un cerebro digital vivo.
+* **Rachas Diarias (Streaks):** Fomento de la constancia para mantener un cerebro digital vivo.
 * **Logros Visuales:** Dashboard de progreso integrado en la barra lateral.
 
 ### 5. Almacenamiento Abierto (Open & Portable)
-[cite_start]Tus datos te pertenecen y son accesibles sin dependencias fuertes:
-* [cite_start]**Formato Markdown:** Notas legibles por humanos y compatibles con herramientas como Obsidian o Logseq.
-* [cite_start]**Exportación Estructurada:** Generación de un `.zip` organizado automáticamente por carpetas temáticas para una portabilidad total.
+Tus datos te pertenecen y son accesibles sin dependencias fuertes:
+* **Formato Markdown:** Notas legibles por humanos y compatibles con herramientas como Obsidian o Logseq.
+* **Exportación Estructurada:** Generación de un `.zip` organizado automáticamente por carpetas temáticas para una portabilidad total.
 
 ---
 
 ## Stack Tecnológico
-* [cite_start]**Frontend:** Streamlit (Interfaz reactiva y ágil).
-* [cite_start]**Cerebro IA:** Groq (Llama 3.3 Versatile, Llama 3.2 Vision & Whisper-large-v3).
-* [cite_start]**Gráficos:** Streamlit-Agraph (Visualización de redes).
-* [cite_start]**Almacenamiento:** Sistema de archivos local (Markdown + Repositorio binario).
+* **Frontend:** Streamlit (Interfaz reactiva y ágil).
+* **Cerebro IA:** Groq (Llama 3.3 Versatile, Llama 3.2 Vision & Whisper-large-v3).
+* **Gráficos:** Streamlit-Agraph (Visualización de redes).
+* **Almacenamiento:** Sistema de archivos local (Markdown + Repositorio binario).
 
 ---
 
@@ -60,9 +61,10 @@
 ---
 
 ## Roadmap / Futuras Mejoras
-* [cite_start][ ] **IA Local:** Integración con Ollama para privacidad total del conocimiento.
-* [cite_start][ ] **OCR Avanzado:** Extracción de tablas complejas en PDFs técnicos.
+* [ ] **IA Local:** Integración con Ollama para privacidad total del conocimiento.
+* [ ] **OCR Avanzado:** Extracción de tablas complejas en PDFs técnicos.
 * [ ] **Ranking Social:** Sistema de competición de XP entre usuarios.
 
 ---
-[cite_start]*Desarrollado para el **Hack UDC KELEA 2026** - Convirtiendo información dispersa en conocimiento útil.*
+
+*Desarrollado para el **Hack UDC KELEA 2026** - Convirtiendo información dispersa en conocimiento útil.*
