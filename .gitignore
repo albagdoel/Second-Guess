@@ -1,0 +1,10 @@
+# Variables de entorno y archivos a ignorar
+.env
+
+# Carpetas de Python
+__pycache__/
+*.pyc
+
+# Carpeta de tu Cerebro Digital local (para no subir tus documentos privados)
+Cerebro_Digital/
+inbox.md
