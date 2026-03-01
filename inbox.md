@@ -1,3 +1,2 @@
-- **[ARCHIVO: Nota_Voz_20260228_052042.wav]** [Archivo .wav listo para procesar]
-- **[ARCHIVO: final_city.wav]** [Archivo .wav listo para procesar]
-- **[ARCHIVO: fjfvkbvkfhdvf.jpg]** [Archivo .jpg listo para procesar]
+
+
