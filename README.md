@@ -61,6 +61,7 @@ Tus datos te pertenecen y son accesibles sin dependencias fuertes:
 ---
 
 ## Roadmap / Futuras Mejoras
+* [ ] **Extracción directa::** Se podrá extraer la información directamente utilizado atajos en teclado.
 * [ ] **IA Local:** Integración con Ollama para privacidad total del conocimiento.
 * [ ] **OCR Avanzado:** Extracción de tablas complejas en PDFs técnicos.
 * [ ] **Ranking Social:** Sistema de competición de XP entre usuarios.
@@ -68,3 +69,4 @@ Tus datos te pertenecen y son accesibles sin dependencias fuertes:
 ---
 
 *Desarrollado para el **Hack UDC KELEA 2026** - Convirtiendo información dispersa en conocimiento útil.*
+
