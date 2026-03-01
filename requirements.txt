@@ -1,0 +1,12 @@
+# --- NÚCLEO DEL SISTEMA ---
+streamlit
+groq
+python-dotenv
+
+# --- PROCESAMIENTO DE DATOS Y ARCHIVOS ---
+PyPDF2
+matplotlib
+
+# --- COMPONENTES DE INTERFAZ AVANZADOS ---
+audio-recorder-streamlit
+streamlit-agraph
